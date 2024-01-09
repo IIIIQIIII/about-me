@@ -1,2 +1,1 @@
-# about-me
-Introduction
+Hello, I'm Shijian Ma. Over the past two years, I have been dedicated to research and learning. My primary areas of interest include Unmanned Surface Vehicles (USVs), Data Mining, and Deep Reinforcement Learning. I believe the future is robot with the interplay between agents and their environments. Outside of work, I like to explore the new technology to change life. My city of choice is Beihai, mainly because of its low cost and the fresh air.
